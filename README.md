@@ -1,2 +1,17 @@
 # GenAI
-Prompt engg, RTCFR
+- What is prompt engineering
+- System prompt vs User prompt
+- Basic Prompting formula RTCFR
+- Role
+- Task
+- Context
+- Fewshots
+- Response
+- RTCCFR Framework Demo
+- RTCFR prompt Guide
+- Prompt tips & tricks 
+- Reverse Prompting
+- Prompt Chaining
+- Advance Prompting
+- Keywords of Prompting
+- Prompt Injection
