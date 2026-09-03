@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-classic
+langchain-openai
+langchain-community
+chromadb
+pypdf
+python-dotenv
