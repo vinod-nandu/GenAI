@@ -91,3 +91,16 @@ Latency in web applications refers to the delay between a user's action and the 
 --------------------
 (venv) PS C:\Users\Vinod\Dev\langchain-app\venv>
 ```
+
+
+
+
+🔎 **Tags:** #GenAI #RAG #LangChain #AIEngineering #OpenAI #DevOps
+
+🙏 **Thanks:** [Thirumurugan R](https://www.linkedin.com/in/thirumurugan-r-85a41b24a/?utm_source=chatgpt.com) & [Manojkumar Vasudevan](https://www.linkedin.com/in/manojkumar-vasudevan-6369b1131/?utm_source=chatgpt.com)
+
+🔗 **LinkedIn** [Article ](https://www.linkedin.com/pulse/langchain-ecosystem-understanding-rag-through-vinodkumar-rajendiran-kgz2c/)
+
+💻 **GitHub:** [GenAI Repository](https://github.com/vinod-nandu/GenAI/tree/main/W2Day3langchain_openai?utm_source=chatgpt.com)
+
+🚀 Learn • Build • Experiment • Share
