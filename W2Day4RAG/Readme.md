@@ -1,21 +1,39 @@
-B11 | W2 | Day 2 | RAG - PDF AI Assiatance
+# AIM
 
-AIM 
+Build a **RAG (Retrieval-Augmented Generation)** application using:
 
-Build a RAG (Retrieval-Augmented Generation) app using LangChain for the retrieval pipeline
-and Streamlit for the user interface. The user uploads a PDF in the browser. As soon as it is
-uploaded, your app reads the PDF, splits it into chunks, turns them into embeddings, and stores
-them in a vector database. Once that database is ready, the user can ask questions and get
-answers that are grounded in the contents of their PDF.
+- **LangChain** for the retrieval pipeline
+- **Streamlit** for the user interface
+- **OpenAI** for embeddings and question answering
+- **Chroma** or **FAISS** as the vector database
 
+The user uploads a PDF through the browser. Once uploaded, the application:
 
-Criteria 
+1. Reads the PDF.
+2. Extracts the text.
+3. Splits the text into chunks.
+4. Generates embeddings for the chunks.
+5. Stores the embeddings in a vector database.
+6. Allows the user to ask questions about the PDF.
+7. Retrieves relevant content from the PDF.
+8. Uses an OpenAI model to generate an answer grounded in the retrieved content.
 
-Show a Streamlit interface with a PDF file uploader.
-• When a PDF is uploaded, load it, split it into chunks, create embeddings, and store them in a
-vector database (for example, FAISS or Chroma) so the database is ready to search.
-• Give the user a query box to ask questions about the uploaded PDF.
-• Use LangChain retrieval together with an OpenAI model to answer from the PDF content.
-• Display the answer clearly in the app.
-• Read your API key from an environment variable - never hard-code or commit it.
-• Keep all your code in a single file named app.py
+---
+
+# Criteria
+
+- Show a **Streamlit interface** with a PDF file uploader.
+- When a PDF is uploaded:
+  - Load the PDF.
+  - Split the text into chunks.
+  - Create embeddings.
+  - Store the embeddings in a vector database such as **FAISS** or **Chroma**.
+- Provide a **query box** for users to ask questions about the uploaded PDF.
+- Use **LangChain retrieval** together with an **OpenAI model** to answer questions based on the PDF content.
+- Display the generated answer clearly in the Streamlit application.
+- Read the **OpenAI API key from an environment variable**.
+- Never hard-code or commit the API key.
+- Keep all application code in a single file:
+
+```text
+app.py
