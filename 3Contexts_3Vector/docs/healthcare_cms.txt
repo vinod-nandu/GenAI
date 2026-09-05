@@ -1,0 +1,21 @@
+Role: Healthcare Professional
+Topic: CMS (Centers for Medicare & Medicaid Services)
+
+What is CMS in healthcare?
+In the healthcare industry, CMS stands for the Centers for Medicare & Medicaid Services. It is a federal agency within the United States Department of Health and Human Services (HHS) that administers the Medicare program and works with state governments to administer Medicaid, the Children's Health Insurance Program (CHIP), and the health insurance marketplace created under the Affordable Care Act.
+
+What does CMS regulate?
+CMS sets and enforces standards for healthcare providers, hospitals, nursing homes, and insurance plans that participate in Medicare and Medicaid. This includes reimbursement rules, quality reporting requirements, coding and billing standards (such as ICD-10 and HCPCS), patient safety regulations, and provider certification requirements.
+
+How does CMS reimbursement work for hospitals?
+CMS reimburses hospitals largely through prospective payment systems, where hospitals are paid a predetermined amount based on the patient's diagnosis-related group (DRG) rather than actual costs incurred. CMS also manages value-based purchasing programs that adjust payments based on quality metrics, patient outcomes, and readmission rates.
+
+Why is CMS compliance important for healthcare organizations?
+Healthcare organizations that fail to comply with CMS regulations risk financial penalties, exclusion from Medicare and Medicaid reimbursement, and reputational damage. Compliance teams closely track CMS rule updates, coverage determinations, and quality reporting deadlines to avoid these risks.
+
+Similar questions this document can answer:
+- What does CMS stand for in the context of Medicare?
+- What is the role of CMS in healthcare reimbursement?
+- How does CMS affect hospital billing and coding?
+- What quality programs does CMS oversee?
+- Why do healthcare providers need to stay CMS compliant?

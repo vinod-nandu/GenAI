@@ -1,0 +1,21 @@
+Role: Software Engineer
+Topic: CMS (Content Management System)
+
+What is CMS in software engineering?
+In software and web development, CMS stands for Content Management System. It is a software application that allows users to create, manage, edit, and publish digital content — typically for websites — without needing to write code directly. Popular examples include WordPress, Drupal, Joomla, and Contentful.
+
+What are the main components of a CMS?
+Most content management systems have two core components: a Content Management Application (CMA), which provides the interface for authors and editors to create and manage content, and a Content Delivery Application (CDA), which compiles and serves that content to end users, typically as rendered web pages.
+
+How does a headless CMS differ from a traditional CMS?
+A traditional CMS tightly couples the content management backend with the front-end presentation layer, meaning the same system both stores content and renders the website. A headless CMS, by contrast, only manages and stores content, exposing it through APIs (usually REST or GraphQL) so that any front-end — a website, mobile app, or IoT device — can consume and render it independently. This makes headless CMS platforms popular in modern, omnichannel architectures.
+
+What are examples of popular CMS platforms?
+Common examples include WordPress (the most widely used CMS on the web), Drupal (favored for complex, highly customizable sites), Joomla, Contentful and Sanity (popular headless CMS options), and Strapi (an open-source headless CMS built on Node.js).
+
+Similar questions this document can answer:
+- What is a Content Management System used for?
+- What is the difference between a headless CMS and a traditional CMS?
+- What are some popular CMS platforms used by developers?
+- How does a CMS separate content from presentation?
+- Why would a company choose a headless CMS architecture?

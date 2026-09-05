@@ -1,0 +1,21 @@
+Role: Banking Domain Professional
+Topic: CMS (Cash Management System / Card Management System)
+
+What is CMS in banking?
+In the banking and financial services domain, CMS most commonly stands for Cash Management System. It is an enterprise platform used by banks to help corporate and institutional clients manage their day-to-day liquidity, payments, collections, and account balances across multiple accounts, branches, and even countries. A Cash Management System typically supports features such as sweep and pool structuring, real-time balance reporting, payment initiation, virtual accounts, and cash forecasting.
+
+What does CMS stand for in the context of card issuance?
+In card operations, CMS can also refer to a Card Management System. This is the platform banks and card issuers use to manage the full lifecycle of a payment card, including card issuance, activation, PIN management, limit configuration, fraud controls, blocking and reissuance, and integration with card networks like Visa or Mastercard.
+
+How does a Cash Management System help corporate clients?
+A Cash Management System gives corporate treasury teams a single view of their cash position across all their bank accounts. It automates routine tasks such as intercompany transfers, bulk payments, and liquidity sweeps, reducing manual effort and the risk of errors. It also provides forecasting tools so finance teams can predict short-term funding needs and avoid unnecessary borrowing or idle cash.
+
+What are common modules inside a banking CMS platform?
+Typical modules include: Account Management, Payments and Collections, Liquidity Management (sweeping and pooling), Reporting and Reconciliation, Fraud and Risk Controls, and API/Host-to-Host connectivity for corporate ERP integration.
+
+Similar questions this document can answer:
+- What is a Cash Management System used for in corporate banking?
+- What is the difference between Cash Management System and Card Management System?
+- How does CMS support liquidity management for banks?
+- What modules are typically found in a banking CMS?
+- How do banks use CMS for treasury operations?
